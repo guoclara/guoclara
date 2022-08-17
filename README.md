@@ -7,8 +7,15 @@ Please take a look around - you'll find a few final projects for classes, team b
 #### Some Quick Facts About me
 - major: Applied Math-Computer Science
 - pronouns: she/her
-- hobbies: cooking :fork_and_knife:, soccer :soccer:, doodling :art:
-- current shows I love: blown away s3 :hourglass:, station eleven :performing_arts:, chefs table :cook:
+- things I love to do: 
+    - :fork_and_knife: cooking 
+    - :soccer: soccer
+    - :newspaper: nyt crossword 
+    - :art: sketching
+- shows I'm watching: 
+    - :hourglass: blown away s3 
+    - :performing_arts: station eleven
+    - :cook: chefs table
 
 
 <!--
